@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: yellow;
+    margin-left: 60px;
+}
+
+h2 {
+    color: brown;
+    margin-left: 10px;
+}
+
+h3 {
+    text-align: 40px;
+}
+
+ul {
+    list-style-position: outside;
+}
+
+p {
+    color: orange;
+    font: 150px arial;
+}
