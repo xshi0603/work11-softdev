@@ -24,3 +24,30 @@ p {
     color: green;
     font: italic bold 15px sans-serif;
 }
+
+#extreme {
+    color: goldenrod;
+    text-align:center;
+}
+
+#navzone {
+    color:lightsteelblue;
+    background-color: green;
+}
+
+#content {
+    color:blue;
+}
+
+#prose {
+    color:red;
+}
+
+.id {
+    font: 30px arial;
+}
+
+.tehlulz {
+    border: 5px;
+    text-align:center;
+}
