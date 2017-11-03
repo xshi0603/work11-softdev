@@ -1,0 +1,12 @@
+p:hover {
+       cursor: crosshair;
+}
+
+h2{
+    color: green;
+    font-stretch: expanded;
+}
+
+h1{
+    text-shadow: 3px 3px #000000;
+}
