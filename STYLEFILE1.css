@@ -25,29 +25,31 @@ p {
     font: italic bold 15px sans-serif;
 }
 
-#extreme {
-    color: goldenrod;
-    text-align:center;
+.extreme {
+    font-size: 50px;
 }
 
-#navzone {
+.navzone {
+    font-size: 30px;
     color:lightsteelblue;
     background-color: green;
 }
 
-#content {
+.content {
+    font-size: 20px;
     color:blue;
 }
 
-#prose {
+.prose {
+    font-size: 10px;
     color:red;
 }
 
-.id {
+#id {
     font: 30px arial;
 }
 
-.tehlulz {
+#tehlulz {
     border: 5px;
     text-align:center;
 }
